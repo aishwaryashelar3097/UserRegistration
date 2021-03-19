@@ -1,4 +1,4 @@
-module UserRegistration1 {package com.mkyong.regex.password;
+module UserRegistration1 {package com.aishwarya.regex.password;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -18,7 +18,7 @@ public class PasswordValidator {
 
 }
 }
-package com.mkyong.regex.username;
+package com.aishwarya.regex.username;
 
 
 
